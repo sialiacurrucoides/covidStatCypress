@@ -1,9 +1,8 @@
-describe('select the variables of interest', () => {   
-    it('opens the app', () => {   
-        cy.visit('http://localhost:3000') 
-    });
-    it('should the spinner disappear', () => {
-        cy.get('div[aria-label="spinner"]', {timeout: 60000}).should("not.to.exist");
+const data = require('../../fixtures/mockCovidStat.json');
+
+describe('select the variables of interest', () => {  
+    before(() => {
+        cy.waitForData(data);
     });
     
     it("by default it requests two variables", () => {

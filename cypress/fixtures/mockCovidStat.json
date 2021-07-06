@@ -1,0 +1,48 @@
+[{
+    "infected": 808160,
+    "activeInfected": 38964,
+    "deceased": 29992,
+    "recovered": 739204,
+    "quarantined": 1998,
+    "tested": 6138529,
+    "sourceUrl": "https://koronavirus.gov.hu",
+    "lastUpdatedAtSource": "2021-07-01T08:45:00.000Z",
+    "lastUpdatedAtApify": "2021-07-01T07:00:00.000Z",
+    "readMe": "https://apify.com/tugkan/covid-hu"
+  },
+  {
+    "infected": 808197,
+    "activeInfected": 38644,
+    "deceased": 29992,
+    "recovered": 739561,
+    "quarantined": 1851,
+    "tested": 6145920,
+    "sourceUrl": "https://koronavirus.gov.hu",
+    "lastUpdatedAtSource": "2021-07-02T09:03:00.000Z",
+    "lastUpdatedAtApify": "2021-07-02T08:00:00.000Z",
+    "readMe": "https://apify.com/tugkan/covid-hu"
+  },
+  {
+    "infected": 808262,
+    "activeInfected": 38071,
+    "deceased": 29996,
+    "recovered": 740195,
+    "quarantined": 2332,
+    "tested": 6164167,
+    "sourceUrl": "https://koronavirus.gov.hu",
+    "lastUpdatedAtSource": "2021-07-05T08:52:00.000Z",
+    "lastUpdatedAtApify": "2021-07-05T07:00:00.000Z",
+    "readMe": "https://apify.com/tugkan/covid-hu"
+  },
+  {
+    "infected": 808294,
+    "activeInfected": 37969,
+    "deceased": 29998,
+    "recovered": 740327,
+    "quarantined": 1852,
+    "tested": 6168335,
+    "sourceUrl": "https://koronavirus.gov.hu",
+    "lastUpdatedAtSource": "2021-07-06T08:58:00.000Z",
+    "lastUpdatedAtApify": "2021-07-06T07:00:00.000Z",
+    "readMe": "https://apify.com/tugkan/covid-hu"
+  }]
