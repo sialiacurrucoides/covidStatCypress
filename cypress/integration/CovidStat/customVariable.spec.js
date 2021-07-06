@@ -1,6 +1,6 @@
 const data = require('../../fixtures/mockCovidStat.json');
 
-describe("summaryStatistics", () => {
+describe("create custom variable", () => {
     before(() => {
         cy.waitForData(data);
     });
